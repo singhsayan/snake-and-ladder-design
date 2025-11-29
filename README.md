@@ -64,8 +64,7 @@ Each player has:
 The following diagram shows all major system components and relationships:
 
 > **Class Diagram:**  
-> *(File located at `/mnt/data/23f48cd3-3dc7-4fff-bb03-4e3dddf997d0.png`)*  
-> ![Class Diagram](./23f48cd3-3dc7-4fff-bb03-4e3dddf997d0.png)
+> ![Class Diagram](./screenshots/class_diagram.png)
 
 ---
 
