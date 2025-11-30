@@ -134,7 +134,7 @@ Encapsulates dice face count and random rolling.
 
 ---
 
-## *32. Board & BoardEntity**
+## *3. Board & BoardEntity**
 
 ### **Board**
 Stores:
